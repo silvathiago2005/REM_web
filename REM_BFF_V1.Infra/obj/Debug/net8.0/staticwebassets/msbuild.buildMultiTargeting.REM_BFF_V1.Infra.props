@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REM_BFF_V1.Infra.props" />
+</Project>
